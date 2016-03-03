@@ -8,6 +8,7 @@ namespace EventsAndEventHandlers
 {
     class CustomEventArgs : EventArgs
     {
+
         public string Message { get; set; }
     }
 }
