@@ -20,3 +20,4 @@ Sample codes for MCP 483 exam certification for the following features:
 * Reflection
 * Garbage Collector
 * Generic type
+* Symmetric & Asymmetric data encryption
