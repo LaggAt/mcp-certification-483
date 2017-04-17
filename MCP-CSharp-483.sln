@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Fundamentals", "OOP-Fundamentals\OOP-Fundamentals.csproj", "{0FA6ECCF-93D1-4109-ABC3-26FAA045FBFF}"
 EndProject
@@ -99,6 +99,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfigExamples", "AppConfigExamples\AppConfigExamples.csproj", "{8D716504-09AF-43EB-B30A-439BAE096EEA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFormatProviderAndICustomFormatter", "IFormatProviderAndICustomFormatter\IFormatProviderAndICustomFormatter.csproj", "{A043F075-7A51-425D-ACEA-E1DB265031D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipalPermissionExample", "PrincipalPermissionExample\PrincipalPermissionExample.csproj", "{BD67659B-1FA0-448F-B1DB-46873AF06702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializer_DataContract", "Serializer_DataContract\Serializer_DataContract.csproj", "{5FE3F9BB-F662-439D-9CCD-391C28B6735F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -383,6 +387,18 @@ Global
 		{A043F075-7A51-425D-ACEA-E1DB265031D5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A043F075-7A51-425D-ACEA-E1DB265031D5}.Test|Any CPU.ActiveCfg = Release|Any CPU
 		{A043F075-7A51-425D-ACEA-E1DB265031D5}.Test|Any CPU.Build.0 = Release|Any CPU
+		{BD67659B-1FA0-448F-B1DB-46873AF06702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD67659B-1FA0-448F-B1DB-46873AF06702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD67659B-1FA0-448F-B1DB-46873AF06702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD67659B-1FA0-448F-B1DB-46873AF06702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD67659B-1FA0-448F-B1DB-46873AF06702}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{BD67659B-1FA0-448F-B1DB-46873AF06702}.Test|Any CPU.Build.0 = Release|Any CPU
+		{5FE3F9BB-F662-439D-9CCD-391C28B6735F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE3F9BB-F662-439D-9CCD-391C28B6735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE3F9BB-F662-439D-9CCD-391C28B6735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE3F9BB-F662-439D-9CCD-391C28B6735F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE3F9BB-F662-439D-9CCD-391C28B6735F}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE3F9BB-F662-439D-9CCD-391C28B6735F}.Test|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
