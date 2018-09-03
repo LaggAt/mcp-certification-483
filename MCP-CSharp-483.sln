@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Fundamentals", "OOP-Fundamentals\OOP-Fundamentals.csproj", "{0FA6ECCF-93D1-4109-ABC3-26FAA045FBFF}"
 EndProject
@@ -105,6 +105,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializer_DataContract", "Serializer_DataContract\Serializer_DataContract.csproj", "{5FE3F9BB-F662-439D-9CCD-391C28B6735F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExamples", "EnumExamples\EnumExamples.csproj", "{E129B4AA-B700-46EF-8B80-8EEADBDC8CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingWithMock", "TestingWithMock\TestingWithMock.csproj", "{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -407,6 +409,12 @@ Global
 		{E129B4AA-B700-46EF-8B80-8EEADBDC8CCA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E129B4AA-B700-46EF-8B80-8EEADBDC8CCA}.Test|Any CPU.ActiveCfg = Release|Any CPU
 		{E129B4AA-B700-46EF-8B80-8EEADBDC8CCA}.Test|Any CPU.Build.0 = Release|Any CPU
+		{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC90C2C-0C3B-47B5-8BDC-F11A736D8846}.Test|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -414,5 +422,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{070D1C57-EE86-4562-9541-6FAB49D83E46} = {5E4706E2-311C-481C-80E2-9CABA7DE5B3C}
 		{7985FB3C-AF3D-4920-9BC9-78B7EFE41617} = {5E4706E2-311C-481C-80E2-9CABA7DE5B3C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A95DC56-4106-4F72-96D9-B84FAAA3030D}
 	EndGlobalSection
 EndGlobal
